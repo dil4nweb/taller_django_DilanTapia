@@ -29,5 +29,5 @@ Mediante una Vista Basada en Clase (View), los metodos gestionan las peticiones 
 
 ### Fuentes
 
-* **Documentacion Oficial de Django (en español):** Vistas basadas en clases y Objetos de peticion/respuesta (HttpRequest y HttpResponse). [https://docs.djangoproject.com/es/](https://docs.djangoproject.com/es/)
+* **Documentacion Oficial de Django:** Vistas basadas en clases y Objetos de peticion/respuesta (HttpRequest y HttpResponse). [https://docs.djangoproject.com/es/](https://docs.djangoproject.com/es/)
 * **MDN Web Docs (Mozilla Developer Network):** Tutorial de Django: Listas genéricas y Vistas basadas en clases. [https://developer.mozilla.org/es/docs/Learn/Server-side/Django](https://developer.mozilla.org/es/docs/Learn/Server-side/Django)
